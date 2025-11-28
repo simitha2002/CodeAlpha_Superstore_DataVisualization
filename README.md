@@ -258,7 +258,7 @@ Contributions are welcome!
 - GitHub: [github.com/simitha2002](https://github.com/simitha2002)
 - Email: simithau@gmail.com
 
-**Project Link:** [https://github.com/simitha2002/CodeAlpha_Superstore_DataVisualization](https://github.com/simitha2002/CodeAlpha_OnlineRetail_Analysis_EDA)
+**Project Link:** [https://github.com/simitha2002/CodeAlpha_Superstore_DataVisualization](https://github.com/simitha2002/CodeAlpha_Superstore_DataVisualization)
 
 ---
 
